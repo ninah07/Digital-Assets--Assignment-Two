@@ -1,0 +1,15 @@
+C:\Users\Nina Heng\source\repos\Build2\Build2\bin\Debug\Build2.exe
+C:\Users\Nina Heng\source\repos\Build2\Build2\bin\Debug\Build2.exe.config
+C:\Users\Nina Heng\source\repos\Build2\Build2\obj\Debug\Build2.csproj.AssemblyReference.cache
+C:\Users\Nina Heng\source\repos\Build2\Build2\obj\Debug\Build2.Form1.resources
+C:\Users\Nina Heng\source\repos\Build2\Build2\obj\Debug\Build2.Form2.resources
+C:\Users\Nina Heng\source\repos\Build2\Build2\obj\Debug\Build2.Form3.resources
+C:\Users\Nina Heng\source\repos\Build2\Build2\obj\Debug\Build2.Form4.resources
+C:\Users\Nina Heng\source\repos\Build2\Build2\obj\Debug\Build2.Form5.resources
+C:\Users\Nina Heng\source\repos\Build2\Build2\obj\Debug\Build2.Form6.resources
+C:\Users\Nina Heng\source\repos\Build2\Build2\obj\Debug\Build2.Properties.Resources.resources
+C:\Users\Nina Heng\source\repos\Build2\Build2\obj\Debug\Build2.csproj.GenerateResource.cache
+C:\Users\Nina Heng\source\repos\Build2\Build2\obj\Debug\Build2.csproj.CoreCompileInputs.cache
+C:\Users\Nina Heng\source\repos\Build2\Build2\obj\Debug\Build2.exe
+C:\Users\Nina Heng\source\repos\Build2\Build2\obj\Debug\Build2.pdb
+C:\Users\Nina Heng\source\repos\Build2\Build2\bin\Debug\Build2.pdb
